@@ -1,0 +1,20 @@
+<!-- app/templates/index.html -->
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>顔類似度判定</title>
+</head>
+<body>
+  <h1>似顔絵と顔写真の類似度判定</h1>
+  <form method="post" enctype="multipart/form-data">
+    <input type="file" name="file" required>
+    <button type="submit">アップロードして判定</button>
+  </form>
+
+  {% if similarity is not none %}
+    <h2>類似度: {{ similarity | round(2) }}</h2>
+    <img src="{{ image_path }}" alt="Uploaded Image" width="224">
+  {% endif %}
+</body>
+</html>
