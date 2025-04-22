@@ -1,43 +1,79 @@
 absl-py==2.2.2
+aiohappyeyeballs @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_6decsjc93r/croot/aiohappyeyeballs_1734469407680/work
+aiohttp @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_ccjz918vvn/croot/aiohttp_1734687143062/work
+aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
 astunparse==1.6.3
-blinker==1.9.0
-certifi==2025.1.31
+async-timeout @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_9663p7z0_t/croot/async-timeout_1732661991598/work
+attrs @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_3d06zr_mcz/croot/attrs_1734533118470/work
+blinker @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_50ofyjh0pb/croot/blinker_1737448732393/work
+Brotli @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_d7pp3g74_g/croot/brotli-split_1736182638718/work
+cachetools @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_f12x4m5uvx/croot/cachetools_1738225252032/work
+certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_d0mlk2yciq/croot/certifi_1738623741969/work/certifi
+cffi @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_51d1gdg4kr/croot/cffi_1736183297412/work
 charset-normalizer==3.4.1
-click==8.1.8
-Flask==3.1.0
+click @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_fdbzzxkwu5/croot/click_1744271643020/work
+colorama @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_f5t80kwp9l/croot/colorama_1672386533201/work
+cryptography @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_19sc_35nzq/croot/cryptography_1694211574676/work
+dlib==19.24.8
+Flask @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_cfi86723k0/croot/flask_1737454311635/work
 flatbuffers==25.2.10
+frozenlist @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_11anscvt0v/croot/frozenlist_1730902824748/work
 gast==0.6.0
-google-pasta==0.2.0
+google-auth @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_26_fni4dt5/croot/google-auth_1741279011489/work
+google-auth-oauthlib @ file:///tmp/build/80754af9/google-auth-oauthlib_1617120569401/work
+google-pasta @ file:///Users/ktietz/demo/mc3/conda-bld/google-pasta_1630577991354/work
 grpcio==1.71.0
 gunicorn==23.0.0
 h5py==3.13.0
 idna==3.10
-itsdangerous==2.2.0
-Jinja2==3.1.6
+importlib_metadata @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_3e5enqet8m/croot/importlib_metadata-suite_1732633497061/work
+itsdangerous @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_f7bt4rtvu8/croot/itsdangerous_1716533350521/work
+Jinja2 @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_f4xtf61_ib/croot/jinja2_1741715270435/work
 keras==3.9.2
+Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
 libclang==18.1.1
 Markdown==3.8
 markdown-it-py==3.0.0
-MarkupSafe==3.0.2
+MarkupSafe @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_76vhch455b/croot/markupsafe_1738584048225/work
 mdurl==0.1.2
+mkl-fft @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_af8wl3mjfu/croot/mkl_fft_1695058185839/work
+mkl-random @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_0fq2s894lk/croot/mkl_random_1695059822529/work
+mkl-service==2.4.0
 ml-dtypes==0.3.2
+multidict @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_3ecxr7g6ut/croot/multidict_1730905500260/work
 namex==0.0.8
-numpy==1.26.4
+numpy @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_b7iptlxgej/croot/numpy_and_numpy_base_1708638622773/work/dist/numpy-1.26.4-cp39-cp39-macosx_10_9_x86_64.whl#sha256=1ca37e4fdfd421b20423d3f5f08de21aeee8ef917ddcee6667076d3dc7937879
+oauthlib @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_0fpzkx7s0h/croot/oauthlib_1679489634313/work
+opencv-python==4.11.0.86
 opt_einsum==3.4.0
 optree==0.15.0
 packaging==25.0
 pillow==11.2.1
+propcache @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_31el6_waw6/croot/propcache_1744012730745/work
 protobuf==4.25.6
+pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
 Pygments==2.19.1
-requests==2.32.3
+PyJWT @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_e3flm2yt7s/croot/pyjwt_1736178900134/work
+pyOpenSSL @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_7fwdg30481/croot/pyopenssl_1690223429070/work
+PySocks @ file:///opt/concourse/worker/volumes/live/112288ac-9cb0-4e73-768b-13baf4ca6419/volume/pysocks_1605305820043/work
+requests @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_2eh84h3yiv/croot/requests_1730999127987/work
+requests-oauthlib @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_f5v0w5n9ep/croot/requests-oauthlib_1720615031810/work
 rich==14.0.0
-six==1.17.0
+rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
+scipy @ file:///Users/builder/cbouss/crscipy/scipy_1714069921542/work/dist/scipy-1.13.0-cp39-cp39-macosx_10_9_x86_64.whl#sha256=270e7617bb253b0d05a972d948976854aace41cbd75a27d6f1d17ea4e8fbf0b3
+six @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_2e3n1z57yz/croot/six_1744271514562/work
 tensorboard==2.16.2
 tensorboard-data-server==0.7.2
+tensorboard-plugin-wit==1.6.0
 tensorflow==2.16.2
+tensorflow-estimator @ file:///Users/ec2-user/miniconda3/conda-bld/tensorflow-estimator_1669751680663/work/tensorflow_estimator-2.10.0-py2.py3-none-any.whl
 tensorflow-io-gcs-filesystem==0.37.1
 termcolor==3.0.1
 typing_extensions==4.13.2
 urllib3==2.4.0
-Werkzeug==3.1.3
+Werkzeug @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_feipt8snyf/croot/werkzeug_1737448724848/work
 wrapt==1.17.2
+yarl @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_b63sbdb9p_/croot/yarl_1732546845158/work
+zipp @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_d1md1mr9su/croot/zipp_1732630765619/work
