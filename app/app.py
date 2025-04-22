@@ -1,7 +1,7 @@
 import os
 from flask import Flask, render_template, request
 from werkzeug.utils import secure_filename
-from .model import extract_features, cosine_similarity
+from app.model import extract_features, cosine_similarity
 
 # 基本設定
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
